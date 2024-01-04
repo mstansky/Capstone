@@ -6,7 +6,7 @@ Rather than observe the changes in security prices to indicate impending bankrup
 
 Future updates will expand the set of forecast copmanies from the S&P 500 to the Russell 3000, incorporate macroeconomic context, and attempt to forecast bankruptcy on longer timeframes (currently the model predicts bankruptcy within the next year.)
 
-You can find a link to my project [here](http://3.85.50.226:8501/)).
+You can find a link to my project [here](http://3.85.50.226:8501/).
 
 # Project overview
 A timeline of updates, additions, and improvements.
